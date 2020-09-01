@@ -1,16 +1,62 @@
-### Hi there 👋
+### Hi there, I'm [Yves Kouadio!](https://yves97.github.io/template-cv/) 👋
 
-<!--
-**Yves97/Yves97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/yveskouadio8">
+  <img align="left" alt="Yves Kouadio Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yves-kouadio-671013192/">
+  <img align="left" alt="Yves Kouadio Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Yves97">
+  <img align="left" alt="Yves Kouadio Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://web.facebook.com/yves.kouadio.5492">
+  <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Glad to see you here! 🤩 &nbsp;
+
+I'm Yves, Junior Front End Developer from Ivory Coast, passionate about programming
+
+- 🔭 I’m currently working on many project
+- 🌱 I’m currently learning Laravel, React Native
+- 👯 I’m looking to collaborate  on my [blog project](https://github.com/Yves97/simple_forum)
+- 💬 Ask me about [here](https://github.com/ohidurbappy/ohidurbappy/issues)
+- 📫  How to reach me: yveskouadio111@yahoo.fr <br>
+- 🥅 2020 Goals: Contribute to Open Source projects
+
+**Languages and Tools:** &nbsp;
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+</code>
+
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+</code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+</code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+</code>
+
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves97&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yves97&show_icons=true&theme=radical&line_height=21" alt="Yves's github stats"/>
+</p>
+
+<br />
+
+
