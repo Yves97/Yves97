@@ -23,7 +23,7 @@ I'm Yves, Junior Front End Developer from Ivory Coast, passionate about programm
 - 🔭 I’m currently working on many project
 - 🌱 I’m currently learning Laravel, React Native
 - 👯 I’m looking to collaborate  on my [blog project](https://github.com/Yves97/simple_forum)
-- 💬 Ask me about [here](https://github.com/ohidurbappy/ohidurbappy/issues)
+- 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
 - 🥅 2020 Goals: Contribute to Open Source projects
 
