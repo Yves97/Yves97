@@ -18,7 +18,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Junior Front End Developer from Ivory Coast, passionate about programming
+I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming
 
 - 🔭 I’m currently working on many project
 - 🌱 I’m currently learning Laravel, React Native
