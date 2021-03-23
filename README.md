@@ -21,11 +21,11 @@
 I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming
 
 - 🔭 I’m currently working on many project
-- 🌱 I’m currently learning Laravel, React Native
+- 🌱 I’m currently learning React Native, ReactJs 
 - 👯 I’m looking to collaborate  on my [blog project](https://github.com/Yves97/simple_forum)
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Improve Front End Skills 
 
 **Languages and Tools:** &nbsp;
 
