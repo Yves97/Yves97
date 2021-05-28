@@ -18,14 +18,14 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming & Design
+I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming & design
 
 - 🔭 I’m currently working on many project
-- 🌱 I’m currently learning React Native, ReactJs, NodeJs & TypeScript
+- 🌱 I’m currently learning React Native, ReactJs, NodeJs, TypeScript & Design
 - 👯 I’m looking to collaborate  on my [blog project](https://github.com/Yves97/simple_forum)
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
-- 🥅 2021 Goals: Improve Front End Skills 
+- 🥅 2021 Goals: Improve Front End Skills & Design Skills
 
 **Languages and Tools:** &nbsp;
 
