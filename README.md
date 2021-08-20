@@ -4,14 +4,14 @@
   <img align="left" alt="Yves Kouadio Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yves-kouadio-671013192/">
-  <img align="left" alt="Yves Kouadio Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yves Kouadio LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Yves97">
   <img align="left" alt="Yves Kouadio Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://web.facebook.com/yves.kouadio.5492">
-  <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Yves Kouadio's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
@@ -20,8 +20,8 @@
 
 I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming & design
 
-- 🔭 I’m currently working on many project
-- 🌱 I’m currently learning React Native, ReactJs, NodeJs, TypeScript & Design
+- 🔭 I’m currently working on many projects
+- 🌱 I’m currently learning React Native, ReactJs, NodeJs, VueJs, Angular, TypeScript & Design
 - 👯 I’m looking to collaborate  on my [blog project](https://github.com/Yves97/simple_forum)
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
