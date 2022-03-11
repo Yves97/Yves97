@@ -26,6 +26,7 @@ I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming & 
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
 - 🥅 2021 Goals: Improve Front End Skills & Design Skills
+- You can also follow me on [gitlab](https://gitlab.com/yvy)
 
 **Languages and Tools:** &nbsp;
 
