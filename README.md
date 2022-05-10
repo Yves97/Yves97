@@ -18,7 +18,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Junior Web Developer from Ivory Coast, passionate about programming & design
+I'm Yves, Web Developer from Ivory Coast, passionate about programming & design
 
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning React Native, ReactJs, NodeJs, VueJs, Angular, TypeScript & Design
