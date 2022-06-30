@@ -18,14 +18,13 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Web Developer from Ivory Coast, passionate about programming & design
+I'm Amani, Front End & Mobile Developer from Côte d'Ivoire, passionate about programming & design
 
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning React Native, ReactJs, NodeJs, VueJs, Angular, TypeScript & Design
-- 👯 I’m looking to collaborate  on my [blog project](https://github.com/Yves97/simple_forum)
+- 🌱 I’m currently learning React Native, React, NodeJs, NestJs, VueJs, Angular, TypeScript & Design
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
-- 🥅 2021 Goals: Improve Front End Skills & Design Skills
+- 🥅 2022 Goals: Improve Front End Skills, Mobile Skilles & Design Skills
 - You can also follow me on [gitlab](https://gitlab.com/yvy)
 
 **Languages and Tools:** &nbsp;
