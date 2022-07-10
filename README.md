@@ -18,7 +18,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Amani, Front End & Mobile Developer from Côte d'Ivoire, passionate about programming & design
+I'm Yves, Front End & Mobile Developer from Côte d'Ivoire, passionate about programming & design
 
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning React Native, React, NodeJs, NestJs, VueJs, Angular, TypeScript & Design
