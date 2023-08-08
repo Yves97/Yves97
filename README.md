@@ -21,10 +21,9 @@
 I'm Yves, Front End & Mobile Developer from Côte d'Ivoire, passionate about programming & design
 
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning React Native, React, NodeJs, NestJs, VueJs, Angular, TypeScript & Design
+- 🌱 I’m currently learning Algorithm to solve problems
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yveskouadio111@yahoo.fr <br>
-- 🥅 2022 Goals: Improve Front End Skills, Mobile Skilles & Design Skills
 - You can also follow me on [gitlab](https://gitlab.com/yvy)
 
 **Languages and Tools:** &nbsp;
