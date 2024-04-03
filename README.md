@@ -1,20 +1,6 @@
-### Hi there, I'm [Yves Kouadio!](https://yves97.github.io/template-cv/) 👋
+### Hi there, I'm [Yves Amani!](https://yves97.github.io/template-cv/) 👋
 
-<a href="https://twitter.com/yveskouadio8">
-  <img align="left" alt="Yves Kouadio Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yves-kouadio-671013192/">
-  <img align="left" alt="Yves Kouadio LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Yves97">
-  <img align="left" alt="Yves Kouadio Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
-<a href="https://web.facebook.com/yves.kouadio.5492">
-  <img align="left" alt="Yves Kouadio's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br />
 
 ### Glad to see you here! 🤩 &nbsp;
 
