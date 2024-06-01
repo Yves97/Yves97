@@ -9,8 +9,8 @@ I'm Yves, Front End & Mobile Developer from Côte d'Ivoire, passionate about pro
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning Algorithm to solve problems
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
-- 📫  How to reach me: yveskouadio111@yahoo.fr <br>
-- You can also follow me on [gitlab](https://gitlab.com/yvy)
+- 📫  How to reach me: yvesamani008@gmail.com <br>
+- You can also follow me on [gitlab](https://gitlab.com/yvesamani)
 
 **Languages and Tools:** &nbsp;
 
