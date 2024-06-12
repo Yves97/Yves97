@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Front End & Mobile Developer from Côte d'Ivoire, passionate about programming & design
+I'm Yves, Software & Mobile Developer from Côte d'Ivoire, passionate about programming.
 
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning Algorithm to solve problems
