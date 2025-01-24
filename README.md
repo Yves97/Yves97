@@ -4,10 +4,10 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Software & Mobile Developer from Côte d'Ivoire, passionate about programming.
+I'm Yves, Software Developer from Côte d'Ivoire, passionate about programming.
 
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning Algorithm to solve problems
+- 🌱 I’m currently learning Algorithms to solve problems
 - 💬 Ask me about [here](https://github.com/yves97/yves97/issues)
 - 📫  How to reach me: yvesamani008@gmail.com <br>
 - You can also follow me on [gitlab](https://gitlab.com/yvesamani)
