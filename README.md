@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I'm Yves, Software Developer from Côte d'Ivoire, passionate about programming.
+I'm Yves Amani, Software Engineer from Côte d'Ivoire, passionate about programming.
 
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning algorithms to solve problems
